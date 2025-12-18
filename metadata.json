@@ -1,0 +1,8 @@
+{
+  "name": "Craik Electrical Ops Center",
+  "description": "Enterprise-grade electrical management suite with Vision Link AR integration and Gemini-powered voice logging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
